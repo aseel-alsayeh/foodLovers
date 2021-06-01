@@ -1,0 +1,107 @@
+main{
+   
+    background-image: url("/img/background.jpg");
+   background-size: cover;
+   
+
+}
+
+#logo{
+    width:100px;
+    height:70px;
+    line-height: 120px;
+    display: inline-block;
+    margin-top: 10px;
+
+}
+
+h1{
+    position: relative;
+   text-align: center;
+    margin-left: 450px;
+    display: inline-block;
+    color: red;
+
+    
+    
+    
+
+}
+header{
+    height: 100px;
+    position: relative;
+    background-color: rgba(255, 229, 72, 255);
+
+
+}
+form{
+    color: red;
+    width: fit-content;
+    display: inline-block;
+    background-color: rgba(255, 229, 72, 255);
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 30px;
+}
+
+table{
+    width: fit-content;
+    display: inline-block;
+}
+
+#sub{
+    width: 170px;
+    color: white;
+    background-color: red;
+}
+
+fieldset{
+    border:rgba(255, 229, 72, 255);
+}
+input{
+    margin: 20px;
+}
+#type{
+    width: 200px;
+}
+label{
+    margin-bottom: 20px;
+}
+
+
+table{
+        color :black;
+        width: fit-content;
+        display: inline-block;
+        background-color: rgba(255, 229, 72, 255);
+        margin-top: 50px;
+        margin-left: 50px;
+        padding: 30px;
+}
+
+td,th{
+    border:red solid 1px;
+    background-color:white;
+    padding: 20px;
+}
+ 
+#formdiv ,#tablediv  {
+    display: inline-block;
+
+}
+footer{
+    background-color: rgba(255, 229, 72, 255);
+    height: 50px;
+    margin-top: 0px;
+}
+
+h6{
+    line-height: 50px;
+    text-align: center
+
+}
+
+img{
+    width: 100px;
+    height: 50px;
+}
